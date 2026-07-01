@@ -11,4 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0141-linked-list-cycle) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
