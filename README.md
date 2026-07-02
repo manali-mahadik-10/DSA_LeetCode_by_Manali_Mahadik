@@ -15,9 +15,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
