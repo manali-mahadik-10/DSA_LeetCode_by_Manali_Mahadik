@@ -10,7 +10,6 @@ public:
             }
             tp++;
         }
-
         return sp == s.length();        
     }
 };
