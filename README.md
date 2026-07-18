@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0053-maximum-subarray) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0412-fizz-buzz) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
