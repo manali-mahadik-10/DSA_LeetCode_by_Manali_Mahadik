@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0724-find-pivot-index) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Linked List
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0724-find-pivot-index) |
