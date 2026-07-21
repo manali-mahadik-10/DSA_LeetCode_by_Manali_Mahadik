@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
