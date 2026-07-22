@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Math
@@ -164,4 +168,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0002-add-two-numbers) |
+## Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
