@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0986-interval-list-intersections) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
