@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Trie
 |  |
 | ------- |
