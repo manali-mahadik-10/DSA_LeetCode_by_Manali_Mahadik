@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0525-contiguous-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0412-fizz-buzz) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Trie
