@@ -1,18 +1,42 @@
 class Solution {
 public:
-    int lowerIdx(vector<int>& a, int x) {
-        int l = 0, r = a.size() - 1, ans = a.size();
-        while (l <= r) {
-            int m = (l + r) / 2;
-            if (a[m] >= x)
-                ans = m, r = m - 1;
-            else
-                l = m + 1;
+    int firstoccurence(vector<int>& nums, int target){
+        int low=0, high=nums.size()-1;
+        int res=-1;
+        while(low<=high){
+            int guess=(low+high)/2;
+            if(nums[guess]<target){
+                low=guess+1;
+            }
+            else if(nums[guess]>target){
+                high=guess-1;
+            }
+            else{
+                res=guess;
+                high=guess-1;
+            }
         }
-        return ans;
+        return res;
     }
-    vector<int> searchRange(vector<int>& a, int t) {
-        int l = lowerIdx(a, t), r = lowerIdx(a, t + 1) - 1;
-        return (l <= r && a[l] == t) ? vector<int>{l, r} : vector<int>{-1, -1};
+    int lastoccurence(vector<int>& nums, int target){
+        int low=0, high=nums.size()-1;
+        int res=-1;
+        while(low<=high){
+            int guess=(low+high)/2;
+            if(nums[guess]<target){
+                low=guess+1;
+            }
+            else if(nums[guess]>target){
+                high=guess-1;
+            }
+            else{
+                res=guess;
+                low=guess+1;
+            }
+        }
+        return res;
+    }
+    vector<int> searchRange(vector<int>& nums, int target) {
+        return {firstoccurence(nums, target), lastoccurence(nums, target)};
     }
 };
