@@ -1,30 +1,44 @@
 class Solution {
 public:
-    vector<int> topKFrequent(vector<int>& nums, int k) {
-        if(k==(int)nums.size()) return nums;
+    vector<int> topKFrequent(vector<int>& a, int k) {
+        int n = a.size();
         
-        unordered_map<int,int> count;
-        for(int num:nums){
-            count[num]++;
+        // heap -> pairs -> min, min
+        using pii = pair<int, int>;
+        priority_queue<pii, vector<pii>, greater<pii>> pq;
+        
+        unordered_map<int, int> f;
+        
+        for (int i = 0; i < n; i++) {
+            f[a[i]]++;
         }
         
-        vector<pair<int,int>> freq;
-        for(auto it=count.begin(); it!=count.end(); ++it){
-            freq.push_back(make_pair(it->first, it->second));
+        for (auto i : f) {
+            int element = i.first;
+            int freq = i.second;
+            
+            pair<int, int> curr = {freq, element};
+            
+            if (pq.size() < k) {
+                pq.push(curr);
+                continue;
+            }
+            
+            if (curr.first < pq.top().first) {
+                continue;
+            }
+            
+            pq.pop();
+            pq.push(curr);
         }
         
-        sort(freq.begin(), freq.end(), compare);
+        vector<int> res;
         
-        vector<int> top(k);
-        
-        for(int i=0; i<k; ++i){
-            top[i] = freq[i].first;
+        while (!pq.empty()) {
+            res.push_back(pq.top().second);
+            pq.pop();
         }
         
-        return top;
-    }
-    
-    static bool compare(pair<int,int>& a, pair<int,int>& b){
-        return a.second > b.second;
+        return res;
     }
 };
