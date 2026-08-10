@@ -4,7 +4,7 @@ public:
         int i=0; int n=nums.size();
         int best_ending=nums[0];
         int ans=nums[0];
-
+        if(n==1){ return nums[0];}
         for(int i=1;i<n;i++){
             int v1=best_ending+nums[i];
             int v2=nums[i];
