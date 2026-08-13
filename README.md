@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1929-concatenation-of-array) |
+| [3024-type-of-triangle](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2652-sum-multiples](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/2652-sum-multiples) |
+| [3024-type-of-triangle](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [3024-type-of-triangle](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/3024-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
