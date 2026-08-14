@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2652-sum-multiples](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
 |  |
