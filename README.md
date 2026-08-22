@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0268-missing-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0412-fizz-buzz) |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0022-generate-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
