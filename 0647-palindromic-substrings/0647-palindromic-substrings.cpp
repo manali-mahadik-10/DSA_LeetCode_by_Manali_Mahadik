@@ -3,8 +3,8 @@ public:
     int countSubstrings(string s) {
         int count = 0;
         for (int i = 0; i < s.length(); i++) {
-            count += expand(s, i, i);
-            count += expand(s, i, i + 1);
+            count =count+ expand(s, i, i);
+            count =count+ expand(s, i, i + 1);
         }
         return count;
     }
