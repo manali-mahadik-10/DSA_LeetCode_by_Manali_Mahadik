@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0027-remove-element) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0022-generate-parentheses) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0069-sqrtx) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
