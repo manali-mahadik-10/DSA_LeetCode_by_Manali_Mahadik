@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0560-subarray-sum-equals-k) |
