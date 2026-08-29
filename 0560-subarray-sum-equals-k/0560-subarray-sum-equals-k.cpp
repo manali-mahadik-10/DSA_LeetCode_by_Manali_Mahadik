@@ -8,7 +8,13 @@ public:
         for(int i=0;i<nums.size();i++){
             sum=sum+nums[i];
             int ques=sum-k;
-            int freq=f[ques];
+            int freq;
+            if(f[ques]){
+                freq=f[ques];
+            }
+            else{
+                freq=0;
+            }
             res=res+freq;
             f[sum]++;
         }
