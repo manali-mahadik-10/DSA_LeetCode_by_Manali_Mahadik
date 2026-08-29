@@ -3,7 +3,7 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
-        vector<int> leftProducts(n, 1), rightProducts(n, 1), result(n, 0);
+        vector<int> leftProducts(n, 1), rightProducts(n, 1), result(n, 1);
         
         // Calculate products of all elements to the left
         for (int i = 1; i < n; i++) {
