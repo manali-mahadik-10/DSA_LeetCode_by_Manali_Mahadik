@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3024-type-of-triangle](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/3024-type-of-triangle) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0647-palindromic-substrings) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Simulation
 |  |
 | ------- |
