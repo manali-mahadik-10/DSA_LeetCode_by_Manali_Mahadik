@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3024-type-of-triangle](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/3024-type-of-triangle) |
+| [3875-construct-uniform-parity-array-i](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/3024-type-of-triangle) |
+| [3875-construct-uniform-parity-array-i](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
