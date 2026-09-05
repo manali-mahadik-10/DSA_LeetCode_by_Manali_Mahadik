@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0383-ransom-note) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0227-basic-calculator-ii](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0503-next-greater-element-ii) |
