@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -423,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0901-online-stock-span) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
