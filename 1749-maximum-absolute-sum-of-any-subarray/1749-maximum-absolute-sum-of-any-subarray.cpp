@@ -9,13 +9,13 @@ public:
         
         // Kadane's algorithm to find max and min subarray sums
         for (int i = 1; i < n; i++) {
-            maxEndingHere = std::max(nums[i], maxEndingHere + nums[i]);
-            minEndingHere = std::min(nums[i], minEndingHere + nums[i]);
-            maxSoFar = std::max(maxSoFar, maxEndingHere);
-            minSoFar = std::min(minSoFar, minEndingHere);
+            maxEndingHere = max(nums[i], maxEndingHere + nums[i]);
+            minEndingHere = min(nums[i], minEndingHere + nums[i]);
+            maxSoFar = max(maxSoFar, maxEndingHere);
+            minSoFar = min(minSoFar, minEndingHere);
         }
         
         // The maximum absolute sum is the maximum of the absolute values of maxSoFar and minSoFar
-        return std::max(std::abs(maxSoFar), std::abs(minSoFar));
+        return max(abs(maxSoFar), abs(minSoFar));
     }
 };
