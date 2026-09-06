@@ -1,15 +1,15 @@
 class Solution {
-   bool isAnagram(string s, string p) {
+   bool isAnagram(string currentwindow, string p) {
    
-    if (s.length() != p.length()) {
+    if (currentwindow.length() != p.length()) {
         return false;
     }
 
     vector<int> count1(26, 0);
     vector<int> count2(26, 0);
 
-    for (int i = 0; i < s.length(); i++) {
-        count1[s[i] - 'a']++;
+    for (int i = 0; i < currentwindow.length(); i++) {
+        count1[currentwindow[i] - 'a']++;
         count2[p[i] - 'a']++;
     }
 
