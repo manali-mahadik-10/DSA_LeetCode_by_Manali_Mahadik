@@ -11,7 +11,7 @@ public:
         return h;
     }
     int minEatingSpeed(vector<int>& piles, int h) {
-        int n=piles.size(); int maxi=INT_MIN;
+        int n=piles.size(); int maxi=0;
         for(int i=0;i<n;i++){
             if(piles[i]>maxi){
                 maxi=piles[i];
