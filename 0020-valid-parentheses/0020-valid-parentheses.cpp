@@ -1,30 +1,66 @@
 class Solution {
 public:
-    bool isValid(string s) {
-        stack<char> st;
-        int n=s.length();
-        for(int i=0;i<n;i++){
-            if(s[i]=='(' || s[i]=='{' || s[i]=='['){
-                st.push(s[i]);
-            }
-            else{
-                if(st.empty()){
-                    return false;
-                }
-                else if(s[i]==')'&& st.top()=='('){
-                    st.pop();
-                }
-                else if(s[i]=='}'&& st.top()=='{'){
-                    st.pop();
-                }
-                else if(s[i]==']'&& st.top()=='['){
-                    st.pop();
-                }
-                else{
-                    return false;
-                }
-            }
+    string s;
+    size_t i;
+    bool recursion() {
+        if (i == s.size()-1) {
+            return false;
         }
-        return st.empty();
+
+        if (s[i] == ')' || s[i] == ']' || s[i] == '}') {
+            return false;
+        }
+
+        if (s[i] == '(') {
+            i++;
+            while (s[i] == '(' || s[i] == '[' || s[i] == '{') {
+                if (!recursion()) {
+                    return false;
+                }
+
+                i++;
+            }
+
+            return (s[i] == ')');
+        }
+
+        if (s[i] == '[') {
+            i++;
+            while (s[i] == '(' || s[i] == '[' || s[i] == '{') {
+                if (!recursion()) {
+                    return false;
+                }
+
+                i++;
+            }
+
+            return (s[i] == ']');
+        }
+
+        i++;
+        while (s[i] == '(' || s[i] == '[' || s[i] == '{') {
+            if (!recursion()) {
+                return false;
+            }
+
+            i++;
+        }
+
+        return (s[i] == '}');
+    }
+
+    bool isValid(string s) {
+        this->s = s;
+        this->i = 0;
+
+        while (this->i < this->s.size()) {
+            if (!recursion()) {
+                return false;
+            }
+
+            this->i++;
+        }
+
+        return true;
     }
 };
