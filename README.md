@@ -450,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
