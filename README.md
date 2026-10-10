@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Design
 |  |
@@ -464,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/1873-calculate-special-bonus) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/manali-mahadik-10/manali-mahadik-10-DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
